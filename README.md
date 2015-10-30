@@ -1,2 +1,1 @@
-# email-template
-Html Invoice Email Template
+Email Template.
